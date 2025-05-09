@@ -123,6 +123,13 @@ Command: powershell.exe -enc SQBtAHAAbwByAHQALQBNAG8AZAB1AGwAZQAgAFcAaQBuADMAMgA
 * Support log filtering by time or event ID
 * Add hash/IOC scanning using public threat feeds
 
+## Created By:
+Author: Jordan Stewart
+
+GitHub: jordanstewart-hub
+
+Date: May 9th, 2025
+
 
 ---
 

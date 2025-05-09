@@ -44,7 +44,7 @@ loginspector/
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/yourname/loginspector.git
+$ git clone https://github.com/jordanstewart-hub/loginspector.git
 $ cd loginspector
 
 # Create a virtual environment (optional)
